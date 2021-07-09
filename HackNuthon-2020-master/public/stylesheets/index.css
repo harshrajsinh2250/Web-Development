@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+
+#banner{
+    padding: 10%;
+    height: 500px;
+    width: auto;
+    background-color: gray;
+    color: white;
+}
+
+#post{
+    height: 500px;
+    background-color: lightgray;
+    margin: 4%;
+}
+
+#help{
+    height: 500px;
+    background-color: lightgray;
+    margin: 4%;
+}
+
+#menu-links li a{
+    font-size: 20px;
+}
+
+#menu-links li a:hover{
+    color: #e9ac67;
+}
+
+#logo{
+    width:80px;
+    height:80px;
+}
+
+#home-buttons{
+    background-color: #e9ac67;
+    border-color: #e9ac67;
+    font-size: large;
+}
+#home-buttons:hover{
+    background-color: blanchedalmond;
+    color: #e9ac67;
+    border-color: #e9ac67;
+}
+
+#cardimg{
+    height: 220px;
+}
